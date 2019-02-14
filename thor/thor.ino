@@ -10,5 +10,9 @@ void loop() {
   run()
   //test
   //asdkjajkdjsa
+<<<<<<< HEAD
 jnjnjn();
+=======
+  //LOL!!!!
+>>>>>>> fd558d5ff6d94e3b38c9921f58bcc370bba67a00
 }
