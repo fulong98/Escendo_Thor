@@ -9,10 +9,16 @@ void loop() {
   asdas();
   run()
   //test
+  //asdkjajkdjsaasdak
+  asdj();
+  asnkdkadskjsad();
+  asdasdds();
   //asdkjajkdjsa
-<<<<<<< HEAD
+
 jnjnjn();
-=======
+
   //LOL!!!!
->>>>>>> fd558d5ff6d94e3b38c9921f58bcc370bba67a00
+
+  //All the best for Exams!!!
+
 }
