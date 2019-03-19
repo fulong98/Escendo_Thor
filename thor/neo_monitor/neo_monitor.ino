@@ -1,7 +1,7 @@
 #include <Adafruit_NeoPixel.h>
 
 #define STRIP_PIN 6
-#define NUM_PIXELS 16
+#define NUM_PIXELS 9
 
 #define COLOR_VAL 0xff00
 long choice;
