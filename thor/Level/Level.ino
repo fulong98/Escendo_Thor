@@ -1,6 +1,6 @@
 #include <Level.h>
 
-Level game(1) ;
+Level game() ;
 void setup() {
 	
   Serial.begin(9600);
@@ -17,5 +17,4 @@ void loop(){
     Serial.println(score);
     game.setColor(0);
     if (score<-100){game.setColor(1);}
-    
 }
